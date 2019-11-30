@@ -1,10 +1,8 @@
 # JavaHouse
 如果我的文章帮助到您，可以关注我的微信公众号《布尔bl》，第一时间分享文章给您
 
-![QA3T1A.jpg](https://s2.ax1x.com/2019/11/29/QA3T1A.jpg)
+![QA3T1A.jpg](http://q1rr6rhl9.bkt.clouddn.com/公众号.jpg)
 
-
-test
 
 ### Java并发
 

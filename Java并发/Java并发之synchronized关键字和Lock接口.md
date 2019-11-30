@@ -131,7 +131,7 @@ public class ReentranLockTest {
 
 这里我们锁住的 j++ 这块资源区（公共资源），lock 是 static 关键字修饰的，是类对象，思考一下如果不是类对象会怎么样？那就是连环锁了（看图）。
 
-![连环锁.png](https://user-gold-cdn.xitu.io/2019/11/30/16ebcfc25976a666?w=640&h=369&f=png&s=292120)
+![连环锁.png](http://q1rr6rhl9.bkt.clouddn.com/连环锁.png)
 
 每一个线程都对可以用钥匙解开这把锁，对于程序而言，加锁操作就没有意义了。因为我们需要的是一个锁。
 
