@@ -1,8 +1,4 @@
 
-
->欢迎点赞阅读，一同学习交流，有疑问请留言 。  
->GitHub上也有开源 [JavaHouse](https://github.com/buerbl/JavaHouse) 欢迎star 
-
 ### 引入
 
 Object 应该是比较简单的源码了。现在我们来分析一下他。Object 是类层次结构的根。Java体系里面的每个类默认都有一个超类就是 Object。总之，所有对象,包含数组，都默认实现该类的方法。  
