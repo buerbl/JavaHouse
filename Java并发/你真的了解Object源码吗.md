@@ -190,9 +190,3 @@ protected void finalize() throws Throwable { }
 
 当垃圾回收器确定不再有对该对象的引用时，由垃圾回收器在对象上调用该方法。该方法只会被调用一次。
 
-### 参考  
-
-
-
-如果我的文章帮助到您，可以关注我的微信公众号，第一时间分享文章给您
-![公众号.jpg](http://q1rr6rhl9.bkt.clouddn.com/公众号.jpg)
