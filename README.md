@@ -7,6 +7,7 @@
     - [你真的了解Object源码吗](/Java并发/你真的了解Object源码吗.md)
     - [基础之Lambda和Stream的邂逅](/Java基础/基础之Lamada和Stream的邂逅.md)
     - [简简单单之Linux命令入门](/Java基础/简简单单之Linux命令入门.md)
+    - [如何设计一个优雅的RESTFUL的接口](/Java基础/如何设计一个优雅的RESTFUL的接口.md)
     
 - ### Java 数据结构
 
